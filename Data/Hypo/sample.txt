@@ -1,0 +1,8 @@
+Index	text	Literal_label	Hypo_label
+1	I can literally see the closet you've just come out of.	1	0
+2	I don't know what's more broken, your ankle or my nostrils because I can literally smell you through my phone....	0	1
+3	I'm literally not with you and you wouldn't show me the comments.	1	0
+4	Postgraduate literally refers to any degree after an undergraduate degree.	1	0
+5	My boyfriend was so hungry, he literally swallowed his plate.	0	1
+6	I swear to God I don't know how that cat got there!	1	0
+7	I swear to Jeebus I will burn this building to the ground!	0	1
