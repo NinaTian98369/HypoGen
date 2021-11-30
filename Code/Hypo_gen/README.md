@@ -1,3 +1,6 @@
+This folder is inherited from comet-commonsense. Here is the original documentation for comet:
+
+
 To run a generation experiment (either conceptnet or atomic), follow these instructions:
 
 
